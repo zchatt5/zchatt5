@@ -10,7 +10,7 @@ I am an aspiring IT Support Specialist building hands-on experience through real
   - [osTicket: Post-Installation Configuration](https://github.com/zchatt5/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/zchatt5/ticket-lifecycle)
  
-**This project demonstrates:**
+This project demonstrates:
 - osTicket deployment on a Virtual Machine
 - Configuring osTicket for proper workflow and managing different agents and end-users
 - Multiple made-up scenerios on how to intake and resolve a ticket
