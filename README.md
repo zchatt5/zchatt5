@@ -19,7 +19,7 @@ This project demonstrates:
 
 
 <b>Microsoft Azure</b>
-  - [Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/joshmadakorcc/configure-ad)
+  - [Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/zchatt5/azure-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
