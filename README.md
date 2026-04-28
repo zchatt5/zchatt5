@@ -20,7 +20,7 @@ This project demonstrates:
 
 <b>Microsoft Azure</b>
   - [Setting up Azure (Resource Group, Virtual Network, Virtual Machines)](https://github.com/zchatt5/azure-setup)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](zchatt5/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
