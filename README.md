@@ -18,6 +18,7 @@ This project demonstrates:
 - Practiced different issues following support workflows
 
 <h2> </h2>
+
 <b>Microsoft Azure</b>
   - [Setting up Azure (Resource Group, Virtual Network, Virtual Machines)](https://github.com/zchatt5/azure-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/zchatt5/azure-network-protocols)
