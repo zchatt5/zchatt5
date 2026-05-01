@@ -22,6 +22,12 @@ This project demonstrates:
   - [Setting up Azure (Resource Group, Virtual Network, Virtual Machines)](https://github.com/zchatt5/azure-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/zchatt5/azure-network-protocols)
 
+This project demonstrates:
+- Use of Mircrosoft Azure (Resource Groups, Virtual Networks, and Virtual Machines)
+- Configuring Network Security Groups
+- Creating and observing network traffic between two Virtual Machines
+- Using protocols and observing how they are sent and received 
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Zachary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
